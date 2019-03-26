@@ -1,4 +1,4 @@
-const host = 'http://localhost:5000/api/v1/'
+const host = 'https://our-ideas-api.herokuapp.com/api/v1/'
 
 const Api = {
     signIn: host + 'auth/signin',
