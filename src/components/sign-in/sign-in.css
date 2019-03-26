@@ -1,0 +1,14 @@
+body>div,
+body>div>div,
+body>div>div>div.login-form {
+    height: 100%;
+    font-family: 'Poppins', sans-serif; 
+}
+
+.ui.card {
+    width: 100%;
+}
+
+.ui.image {
+    height: 10rem;
+}

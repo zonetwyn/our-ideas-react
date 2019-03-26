@@ -1,0 +1,35 @@
+.ui.menu {
+    border-radius: 0;
+}
+
+.ui.image.logo {
+    height: 2rem;
+}
+
+.home {
+    height: 100%;
+}
+
+.ui.grid.app-sidebar {
+    height: 100%;
+}
+
+.two.wide.column.app-sidemenu {
+    height: 100%;
+}
+
+.ui.vertical.menu {
+    height: 100%;
+}
+
+.ui.vertical.menu {
+    width: auto;
+}
+
+.fourteen.wide.column.app-sidecontent {
+    padding: 2rem 2rem 0 0;
+}
+
+.ui.active.modal {
+    height: auto;
+}
